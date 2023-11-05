@@ -6,7 +6,7 @@
     },
     "exported_at": "2023-11-04T22:53:59-03:00",
     "name": "Bun.sh EGG",
-    "author": lms5413@gmail.com",
+    "author": "brleo790@gmail.com",
     "description": "a generic bun.sh egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
     "features": null,
     "docker_images": {
